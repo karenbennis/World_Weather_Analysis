@@ -46,10 +46,10 @@ Below is a sample of maps generated on 2020-04-03 when the search criteria inclu
 * Snow preference = no
 
 This is the full map of cities which met the weather criteria:
-![](https://github.com/karenbennis/World_Weather_Analysis/blob/master/images/WeatherPy_travel_map.png)
-
-Five cities (Porto Velho, Camana, Alta Floresta, Pisco, and Tarata) were selected as the travel destinations to be included on the itinerary, as shown in the map below:
 ![](https://github.com/karenbennis/World_Weather_Analysis/blob/master/images/WeatherPy_vacation_map.png)
 
+
+Five cities (Porto Velho, Camana, Alta Floresta, Pisco, and Tarata) were selected as the travel destinations to be included on the itinerary, as shown in the map below:
+![](https://github.com/karenbennis/World_Weather_Analysis/blob/master/images/WeatherPy_travel_map_markers.png)
 The following map shows the directions for the driving trip Pisco to Tarata via Camana, Porto Velho, and Alta Floresta.
-![](https://github.com/karenbennis/World_Weather_Analysis/blob/master/images/WeatherPy_vacation_map_markers.png)
+![](https://github.com/karenbennis/World_Weather_Analysis/blob/master/images/WeatherPy_travel_map.png)
